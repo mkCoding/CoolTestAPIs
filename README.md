@@ -10,3 +10,5 @@
 - World Bank topics: **GET** https://api.worldbank.org/v2/topic?format=json
 - Aircraft Vectors: https://opensky-network.org/api/states/all
 - Healthcare Glossary: https://www.healthcare.gov/api/glossary.json
+- Artwork: https://openaccess-api.clevelandart.org/api/artworks/ (Docs: https://openaccess-api.clevelandart.org/)
+- 
