@@ -9,3 +9,4 @@
 - Stoic Quotes: **GET** https://stoic.tekloon.net/stoic-quote
 - World Bank topics: **GET** https://api.worldbank.org/v2/topic?format=json
 - Aircraft Vectors: https://opensky-network.org/api/states/all
+- Healthcare Glossary: https://www.healthcare.gov/api/glossary.json
