@@ -7,3 +7,4 @@
 - Simpsons API: **GET** https://thesimpsonsapi.com/api
 - Art Work (Institute of Chicago) API: **GET** https://api.artic.edu/api/v1/artworks
 - Stoic Quotes: **GET** https://stoic.tekloon.net/stoic-quote
+- World Bank topics: **GET** https://api.worldbank.org/v2/topic?format=json
