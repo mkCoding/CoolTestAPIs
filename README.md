@@ -12,3 +12,4 @@
 - Healthcare Glossary: https://www.healthcare.gov/api/glossary.json
 - Artwork: https://openaccess-api.clevelandart.org/api/artworks/ (Docs: https://openaccess-api.clevelandart.org/)
 - Movies: https://my-json-server.typicode.com/mkCoding/MoviesApi-Endpoint/movies
+- Movies with API Key: https://developer.themoviedb.org/reference/account-get-favorites(Docs)
