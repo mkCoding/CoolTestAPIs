@@ -7,9 +7,11 @@
 - Simpsons API: **GET** https://thesimpsonsapi.com/api
 - Art Work (Institute of Chicago) API: **GET** https://api.artic.edu/api/v1/artworks
 - Stoic Quotes: **GET** https://stoic.tekloon.net/stoic-quote
-- World Bank topics: **GET** https://api.worldbank.org/v2/topic?format=json (Docs: https://documents.worldbank.org/en/publication/documents-reports/api)
+- World Bank topics: **GET** https://api.worldbank.org/v2/topic?format=json
+  - (Docs: https://documents.worldbank.org/en/publication/documents-reports/api)
 - Aircraft Vectors: https://opensky-network.org/api/states/all
 - Healthcare Glossary: https://www.healthcare.gov/api/glossary.json
-- Artwork: https://openaccess-api.clevelandart.org/api/artworks/ (Docs: https://openaccess-api.clevelandart.org/)
+- Artwork: https://openaccess-api.clevelandart.org/api/artworks/
+  - (Docs: https://openaccess-api.clevelandart.org/)
 - Movies: https://my-json-server.typicode.com/mkCoding/MoviesApi-Endpoint/movies
 - Movies with API Key: https://developer.themoviedb.org/reference/account-get-favorites(Docs)
