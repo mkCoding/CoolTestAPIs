@@ -16,3 +16,4 @@
 - Movies: https://my-json-server.typicode.com/mkCoding/MoviesApi-Endpoint/movies
 - Movies with API Key: https://developer.themoviedb.org/reference/account-get-favorites(Docs)
 - Breweries: https://api.openbrewerydb.org/v1/breweries
+- Yugioh Cards: **GET** https://db.ygoprodeck.com/api/v7/cardinfo.php
