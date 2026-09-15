@@ -5,6 +5,7 @@
 - Criminal Most Wanted List API: **GET** https://api.fbi.gov/wanted/v1/list
 - Fake Store API : **GET** https://fakestoreapi.com/products
 - Simpsons API: **GET** https://thesimpsonsapi.com/api
+- Fruits API: https://www.fruityvice.com/api/fruit/all
 - Art Work (Institute of Chicago) API: **GET** https://api.artic.edu/api/v1/artworks
 - Stoic Quotes: **GET** https://stoic.tekloon.net/stoic-quote
 - World Bank topics: **GET** https://api.worldbank.org/v2/topic?format=json
